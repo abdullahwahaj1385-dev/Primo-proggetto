@@ -92,7 +92,7 @@ return(
     </div>
 
     <div>
-      risultato operazione : {result}
+      risultato operazione bella : {result}
     </div>
     
 </div>
